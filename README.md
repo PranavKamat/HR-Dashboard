@@ -66,7 +66,7 @@ The dashboard answers questions like:
 ## 📸 Dashboard Snapshots
 
 ### HR Overview Dashboard  
-![HR Overview](https://github.com/PranavKamat/HR-Dashboard/blob/main/HR%20%20Details.jpg)
+![HR Overview](https://github.com/PranavKamat/HR-Dashboard/blob/main/HR%20Overview.jpg)
 
 ### HR Details Dashboard  
 ![HR Details](https://github.com/PranavKamat/HR-Dashboard/blob/main/HR%20%20Details.jpg)
